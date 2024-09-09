@@ -1,0 +1,44 @@
+.bgbox {
+    border-radius: 15px;
+    background-color:rgb(212, 255, 234);
+    margin: 160px;
+    margin-left: 430px;
+    margin-right: 420px;
+    padding: 25px;
+    font-family: 'Segoe UI';
+    font-style: italic;
+}
+
+input 
+{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 15px;
+    font-style: italic;
+}
+
+button
+{
+    padding: 10px;
+    margin: 15px;
+    border-radius: 10px;
+    background-color:cornflowerblue;
+    font-family: Arial;
+    font-style:italic;
+    font-weight: bold;
+}
+
+button:hover
+{
+    background-color:red;
+}
+
+button:active
+{
+    background-color: burlywood;
+}
+
+input:hover
+{
+    font-weight: bold;
+}

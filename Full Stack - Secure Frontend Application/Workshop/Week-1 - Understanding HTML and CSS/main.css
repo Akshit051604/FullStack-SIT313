@@ -1,0 +1,36 @@
+h1
+{
+    color:blueviolet;
+}
+
+h3
+{
+    color: blue;
+}
+
+p
+{
+    color: purple;
+}
+
+div
+{
+    background: cyan;
+}
+
+h1,h3,h5,p,table,a,label
+{
+    font-family: Arial;
+}
+
+table
+{
+    padding: 5px;
+    width: 500px;
+    border-bottom: 2px brown solid;
+}
+
+tr:nth-child(odd)
+{
+    background-color: Lightgreen;
+}
